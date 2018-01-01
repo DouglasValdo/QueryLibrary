@@ -1,0 +1,7 @@
+{
+    "psr-4": {
+      "Model\\" : "App/Model",
+      "View\\" : "App/View",
+      "Controller\\" : "App/Controller"
+    }
+}
